@@ -3,6 +3,9 @@ module.exports = {
     sidebar: {
       '/http/': [
         ''
+      ],
+      '/node/': [
+        ''
       ]
     },
     lastUpdated: 'Last Updated',
