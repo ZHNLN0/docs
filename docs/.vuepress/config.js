@@ -6,9 +6,12 @@ module.exports = {
       ],
       '/node/': [
         ''
+      ],
+      '/javascript/': [
+        ''
       ]
     },
-    lastUpdated: 'Last Updated',
+    lastUpdated: '最后更新时间：',
     smoothScroll: true
   }
 }

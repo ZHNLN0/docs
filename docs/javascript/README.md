@@ -27,6 +27,8 @@ function debounce(fn, time) {
 }
 ```
 
+<test />
+
 ## 节流
 
 ```js
