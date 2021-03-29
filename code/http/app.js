@@ -47,5 +47,5 @@ server.on('request', (req, res) => {
 })
 
 server.listen(7796, '127.0.0.1', () => {
-  console.log('端口：7796')
+  console.log('80 duankou')
 })

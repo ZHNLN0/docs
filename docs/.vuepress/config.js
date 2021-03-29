@@ -2,7 +2,8 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/http/': [
-        ''
+        '',
+        'code'
       ],
       '/node/': [
         ''
@@ -13,5 +14,8 @@ module.exports = {
     },
     lastUpdated: '最后更新时间：',
     smoothScroll: true
+  },
+  markdown: {
+    lineNumbers: true
   }
 }
