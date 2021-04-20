@@ -10,17 +10,15 @@
 
   [源码地址](https://github.com/ZHNLN0/docs/tree/master/code/http)
 
-  使用Node.js创建HTTP服务，并简单实现响应浏览器各种请求及以下功能：
+  使用Node.js创建HTTP服务，并简单实现响应浏览器各种请求及以下任务：
 
   1. 创建HTTP基本服务
   2. 浏览器输入网址过程分析
   3. HTTP缓存控制
   4. Cookie
-  5. 处理不同请求头
-  6. HTTP重定向
-  7. 长连接管理
-  8. 请求代理
-  9. HTTP2 基础知识
+  5. HTTP重定向
+  6. 长连接管理
+  7. HTTP2 基础知识
 
 ### 创建HTTP服务
 

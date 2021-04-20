@@ -29,13 +29,13 @@ const server = http.createServer()
 // })
 
 server.on('request', (req, res) => {
-  fsSend(req.url).then(data => {
-    res.write(data)
-    res.end()
-  }).catch(e => {
-    res.writeHeader(404)
-    res.end()
-  })
+  // fsSend(req.url).then(data => {
+  //   res.write(data)
+  //   res.end()
+  // }).catch(e => {
+  //   res.writeHeader(404)
+  //   res.end()
+  // })
   // fs.readFile(resolve('./index.html'), (err, data) => {
   //   if (err) {
   //     console.log(err)

@@ -8,7 +8,11 @@ module.exports = {
       '/node/': [
         ''
       ],
-      '/javascript/': [
+      '/JavaScript/': [
+        '',
+        'code'
+      ],
+      '/designPattern/': [
         ''
       ]
     },
